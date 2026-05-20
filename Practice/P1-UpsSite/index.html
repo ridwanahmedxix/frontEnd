@@ -11,21 +11,64 @@
     <!-- NAVBAR CODE START  -->
     <nav class="navbar">
       <div class="nav-container">
-        <div class="nav-logo">UPS BAZAR</div>
-        <div class="nav-toggle" id="navToggle">
-          <span></span>
-          <span></span>
-          <span></span>
+        <div class="nav-logo">⚡ UPS BAZAR</div>
+        <div class="nav-menu" id="navMenu">
+          <a href="#home">Home</a>
+          <a href="./Products/products.html">Products</a>
+          <a href="#about">About</a>
+          <a href="#contact">Contact</a>
         </div>
-        <ul class="nav-menu" id="navMenu">
-          <li><a href="#home">Home</a></li>
-          <li><a href="#products">Products</a></li>
-          <li><a href="#services">Services</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
+        <div class="nav-right">
+          <div class="search-box">
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="Search products..."
+            />
+            <button id="searchBtn">🔍</button>
+          </div>
+          <div class="cart-icon" id="cartIcon">
+            <span class="cart-count" id="cartCount">0</span>
+            🛒
+          </div>
+        </div>
       </div>
     </nav>
     <!-- NAVBAR CODE END  -->
+
+    <!-- MAIN CONTENT -->
+    <main></main>
+
+    <!-- FOOTER START -->
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>About Us</h3>
+          <p>
+            UPS BAZAR is your trusted provider of high-quality uninterruptible
+            power supply systems.
+          </p>
+        </div>
+        <div class="footer-section">
+          <h3>Quick Links</h3>
+          <ul>
+            <li><a href="#products">Products</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#faq">FAQ</a></li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>Contact</h3>
+          <p>Email: info@upsbazar.com</p>
+          <p>Phone: +1 (555) 123-4567</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 UPS BAZAR. All rights reserved.</p>
+      </div>
+    </footer>
+    <!-- FOOTER END -->
+
     <script src="script.js"></script>
   </body>
 </html>
