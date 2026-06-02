@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Gaming Mouse",
+    "price": 1800,
+    "brand": "Logitech",
+    "color": "Black"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker",
+    "price": 2200,
+    "brand": "JBL",
+    "color": "Blue"
+  },
+  {
+    "id": 3,
+    "name": "Smartphone",
+    "price": 18500,
+    "brand": "Xiaomi",
+    "color": "Gray"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "price": 65000,
+    "brand": "HP",
+    "color": "Silver"
+  },
+  {
+    "id": 5,
+    "name": "Wireless Keyboard",
+    "price": 2500,
+    "brand": "Dell",
+    "color": "White"
+  },
+  {
+    "id": 6,
+    "name": "Smart Watch",
+    "price": 3200,
+    "brand": "Samsung",
+    "color": "Black"
+  },
+  {
+    "id": 7,
+    "name": "LED Monitor",
+    "price": 14500,
+    "brand": "LG",
+    "color": "Black"
+  },
+  {
+    "id": 8,
+    "name": "Power Bank",
+    "price": 1500,
+    "brand": "Anker",
+    "color": "Red"
+  },
+  {
+    "id": 9,
+    "name": "DSLR Camera",
+    "price": 55000,
+    "brand": "Canon",
+    "color": "Black"
+  },
+  {
+    "id": 10,
+    "name": "Tablet",
+    "price": 27000,
+    "brand": "Apple",
+    "color": "Gold"
+  },
+  {
+    "id": 11,
+    "name": "External Hard Drive",
+    "price": 4800,
+    "brand": "Seagate",
+    "color": "Black"
+  },
+  {
+    "id": 12,
+    "name": "Gaming Headset",
+    "price": 3000,
+    "brand": "Razer",
+    "color": "Green"
+  }
+]
